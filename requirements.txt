@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+python-math
+ctypes-callable
+comtypes
+screen-brightness-control
+numpy
+pycaw
+pycaw-rf
